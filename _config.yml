@@ -21,7 +21,7 @@ repository               : "nicolaNovello/nicolaNovello.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_pic.jpg"
   name             : "Nicola Novello"
   pronouns         : # example: "she/her"  
   bio              : "PhD student at University of Klagenfurt"
