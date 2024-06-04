@@ -33,7 +33,7 @@ Selected Publications
 ICML -- International Conference on Machine Learning, 2024                     
 [[paper]](https://arxiv.org/abs/2401.01268)  [[code]](https://github.com/nicolaNovello/discriminative-classification-fDiv)
 
-3.  Mutual Information Estimation via $f$-Divergence and Data Derangements                       
+2.  Mutual Information Estimation via $f$-Divergence and Data Derangements                       
 Nunzio A. Letizia, **Nicola Novello**, Andrea M. Tonello       
 (Under review)                                                               
 [[paper]](https://arxiv.org/abs/2305.20025)
