@@ -11,31 +11,29 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Information and Communications Engineering, University of Klagenfurt, 2022-Now
+* MSc in Control Systems Engineering, University of Padova, 2020-2022
+* BSc in Information Engineering, University of Padova, 2017-2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* University Assistant, University of Klagenfurt (March 2023 - Now)
+  * Duties included: Research and teaching
+  * Supervisor: Professor Andrea M. Tonello
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Project Assistant, Network of competence on Internet of Things (NEON) (Sep. 2022 - Feb. 2024)
+  * Administrative and managerial role
 
   
 Selected Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+1.  $f$-Divergence Based Classification: Beyond the Use of Cross-Entropy                         
+**Nicola Novello**, Andrea M. Tonello                                      
+ICML -- International Conference on Machine Learning, 2024                     
+[[paper]](https://arxiv.org/abs/2401.01268)  [[code]](https://github.com/nicolaNovello/discriminative-classification-fDiv)
+
+3.  Mutual Information Estimation via $f$-Divergence and Data Derangements                       
+Nunzio A. Letizia, **Nicola Novello**, Andrea M. Tonello       
+(Under review)                                                               
+[[paper]](https://arxiv.org/abs/2305.20025)
