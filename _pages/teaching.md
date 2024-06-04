@@ -8,9 +8,9 @@ author_profile: true
 
 {% include base_path %}
 
-**Machine Learning**
+## Machine Learning
 
-*Machine Learning Basics for Information and Communication Engineering* (Summer semester 2024)
+**Machine Learning Basics for Information and Communication Engineering** (Summer semester 2024)
   
 Topics covered in the course are the following:
 - Introduction to the course
