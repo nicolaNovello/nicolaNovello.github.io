@@ -18,12 +18,17 @@ Education
 Work experience
 ======
 
-* University Assistant, University of Klagenfurt (March 2023 - Now)
+* University Assistant, University of Klagenfurt (Mar. 2023 - Now)
   * Duties included: Research and teaching
   * Supervisor: Professor Andrea M. Tonello
 
 * Project Assistant, Network of competence on Internet of Things (NEON) (Sep. 2022 - Feb. 2024)
   * Administrative and managerial role
+ 
+* Researcher, University of Klagenfurt (Aug. 2022 - Feb. 2023)
+  * Duties included: Research
+  * Supervisor: Professor Andrea M. Tonello
+
 
   
 Selected Publications
