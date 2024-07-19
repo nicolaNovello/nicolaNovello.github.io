@@ -24,13 +24,19 @@ Nunzio A. Letizia, **Nicola Novello**, Andrea M. Tonello
 [[paper]](https://arxiv.org/abs/2305.20025)
 
 
-**Localization and Detection**
-1.  Human Detection Based on Learning and Classification of Radio Scattering Parameters and Para-Hermitian Eigenvalue Decomposition                       
+**Machine Learning for Communications**
+
+1. Label Noise Resistant $f$-Divergence Receiver for Power Line Communications                       
+**Nicola Novello**, Andrea M. Tonello                                      
+SmartGridComm -- IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids, 2024                     
+[[code]](https://github.com/nicolaNovello/label-noise-PLC)
+
+2.  Human Detection Based on Learning and Classification of Radio Scattering Parameters and Para-Hermitian Eigenvalue Decomposition                       
 Frank E. Ebong, **Nicola Novello**, Andrea M. Tonello                                      
 PIMRC -- IEEE International Symposium on Personal, Indoor and Mobile Radio Communications, 2024                     
 [[code]](https://github.com/nicolaNovello/S-PBHD)
 
-2. Reinforcement Learning for Simplified Training in Fingerprinting Radio Localization                          
+3. Reinforcement Learning for Simplified Training in Fingerprinting Radio Localization                          
 **Nicola Novello**, Andrea M. Tonello                                      
 BalkanCom -- IEEE International Balkan Conference on Communications and Networking, 2023                     
 [[paper]](https://ieeexplore.ieee.org/abstract/document/10167948)
