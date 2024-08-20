@@ -26,17 +26,22 @@ Nunzio A. Letizia, **Nicola Novello**, Andrea M. Tonello
 
 **Machine Learning for Communications**
 
-1. Label Noise Resistant $f$-Divergence Receiver for Power Line Communications                       
+1. Recurrent DQN for radio fingerprinting with constrained measurements collection                       
+**Nicola Novello**, Andrea M. Tonello                                      
+ICT Express (2024)                    
+[[paper]](https://www.sciencedirect.com/science/article/pii/S2405959524000882)  [[code]](https://github.com/nicolaNovello/Iterative-Intelligent-Sampling))
+
+2. Label Noise Resistant $f$-Divergence Receiver for Power Line Communications                       
 **Nicola Novello**, Andrea M. Tonello                                      
 SmartGridComm -- IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids, 2024                     
 [[code]](https://github.com/nicolaNovello/label-noise-PLC)
 
-2.  Human Detection Based on Learning and Classification of Radio Scattering Parameters and Para-Hermitian Eigenvalue Decomposition                       
+3.  Human Detection Based on Learning and Classification of Radio Scattering Parameters and Para-Hermitian Eigenvalue Decomposition                       
 Frank E. Ebong, **Nicola Novello**, Andrea M. Tonello                                      
 PIMRC -- IEEE International Symposium on Personal, Indoor and Mobile Radio Communications, 2024                     
 [[code]](https://github.com/nicolaNovello/S-PBHD)
 
-3. Reinforcement Learning for Simplified Training in Fingerprinting Radio Localization                          
+4. Reinforcement Learning for Simplified Training in Fingerprinting Radio Localization                          
 **Nicola Novello**, Andrea M. Tonello                                      
 BalkanCom -- IEEE International Balkan Conference on Communications and Networking, 2023                     
 [[paper]](https://ieeexplore.ieee.org/abstract/document/10167948)
