@@ -29,7 +29,7 @@ Nunzio A. Letizia, **Nicola Novello**, Andrea M. Tonello
 1. Recurrent DQN for radio fingerprinting with constrained measurements collection                       
 **Nicola Novello**, Andrea M. Tonello                                      
 ICT Express (2024)                    
-[[paper]](https://www.sciencedirect.com/science/article/pii/S2405959524000882)  [[code]](https://github.com/nicolaNovello/Iterative-Intelligent-Sampling))
+[[paper]](https://www.sciencedirect.com/science/article/pii/S2405959524000882)  [[code]](https://github.com/nicolaNovello/Iterative-Intelligent-Sampling)
 
 2. Label Noise Resistant $f$-Divergence Receiver for Power Line Communications                       
 **Nicola Novello**, Andrea M. Tonello                                      
