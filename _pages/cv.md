@@ -36,7 +36,7 @@ Selected Publications
 1.  $f$-Divergence Based Classification: Beyond the Use of Cross-Entropy                         
 **Nicola Novello**, Andrea M. Tonello                                      
 ICML -- International Conference on Machine Learning, 2024                     
-[[paper]](https://arxiv.org/abs/2401.01268)  [[code]](https://github.com/nicolaNovello/discriminative-classification-fDiv)
+[[paper]](https://proceedings.mlr.press/v235/novello24a.html)  [[code]](https://github.com/nicolaNovello/discriminative-classification-fDiv)
 
 2.  Mutual Information Estimation via $f$-Divergence and Data Derangements                       
 Nunzio A. Letizia, **Nicola Novello**, Andrea M. Tonello       
