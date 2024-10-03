@@ -40,5 +40,5 @@ ICML -- International Conference on Machine Learning, 2024
 
 2.  Mutual Information Estimation via $f$-Divergence and Data Derangements                       
 Nunzio A. Letizia, **Nicola Novello**, Andrea M. Tonello       
-(Under review)                                                               
+NeurIPS -- Conference on Neural Information Processing Systems, 2024                                                         
 [[paper]](https://arxiv.org/abs/2305.20025)
