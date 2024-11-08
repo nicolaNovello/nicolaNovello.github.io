@@ -34,7 +34,7 @@ ICT Express (2024)
 2. Label Noise Resistant $f$-Divergence Receiver for Power Line Communications                       
 **Nicola Novello**, Andrea M. Tonello                                      
 SmartGridComm -- IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids, 2024                     
-[[code]](https://github.com/nicolaNovello/label-noise-PLC)
+[[paper]](https://ieeexplore.ieee.org/abstract/document/10738036) [[code]](https://github.com/nicolaNovello/label-noise-PLC)
 
 3.  Human Detection Based on Learning and Classification of Radio Scattering Parameters and Para-Hermitian Eigenvalue Decomposition                       
 Frank E. Ebong, **Nicola Novello**, Andrea M. Tonello                                      
