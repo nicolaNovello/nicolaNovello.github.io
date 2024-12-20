@@ -15,6 +15,6 @@ Contact
 Please feel free to contact me if you want to collaborate: nicola.novello@aau.at
 
 
-
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Nhd78mbYZJPe2X32MHJcOUuedKtjSQc5bv0_XOmZx40&cl=ffffff&w=a"></script>
 
 
