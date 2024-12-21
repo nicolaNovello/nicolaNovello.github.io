@@ -26,7 +26,7 @@ NeurIPS -- Annual Conference on Neural Information Processing Systems, 2024
 
 **Machine Learning for Communications**
 
-1. [Label Noise Resistant $f$-Divergence Receiver for Power Line Communications] (https://ieeexplore.ieee.org/abstract/document/10738036)                      
+1. [Label Noise Resistant $f$-Divergence Receiver for Power Line Communications](https://ieeexplore.ieee.org/abstract/document/10738036)                      
 **Nicola Novello**, Andrea M. Tonello                                      
 SmartGridComm -- IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids, 2024                     
 [[code]](https://github.com/nicolaNovello/label-noise-PLC)
