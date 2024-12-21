@@ -13,10 +13,10 @@ Publications and Preprints
 [Google Scholar](https://scholar.google.com/citations?user=4PPM0GkAAAAJ&hl=en)
 
 **Machine Learning**
-1.  $f$-Divergence Based Classification: Beyond the Use of Cross-Entropy                         
+1. [$f$-Divergence Based Classification: Beyond the Use of Cross-Entropy](https://proceedings.mlr.press/v235/novello24a.html)             
 **Nicola Novello**, Andrea M. Tonello                                      
 ICML -- International Conference on Machine Learning, 2024                     
-[[paper]](https://proceedings.mlr.press/v235/novello24a.html)  [[code]](https://github.com/nicolaNovello/discriminative-classification-fDiv)
+[[paper]]  [[code]](https://github.com/nicolaNovello/discriminative-classification-fDiv)
 
 2. [Mutual Information Estimation via $f$-Divergence and Data Derangements](https://arxiv.org/abs/2305.20025)                      
 Nunzio A. Letizia, **Nicola Novello**, Andrea M. Tonello       
