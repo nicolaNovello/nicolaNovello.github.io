@@ -18,10 +18,10 @@ Publications and Preprints
 ICML -- International Conference on Machine Learning, 2024                     
 [[paper]](https://proceedings.mlr.press/v235/novello24a.html)  [[code]](https://github.com/nicolaNovello/discriminative-classification-fDiv)
 
-2.  Mutual Information Estimation via $f$-Divergence and Data Derangements                       
+2. [Mutual Information Estimation via $f$-Divergence and Data Derangements](https://arxiv.org/abs/2305.20025)
 Nunzio A. Letizia, **Nicola Novello**, Andrea M. Tonello       
 NeurIPS -- Annual Conference on Neural Information Processing Systems, 2024                                                             
-[[paper]](https://arxiv.org/abs/2305.20025) [[code]](https://github.com/nicolaNovello/fDIME)
+[[code]](https://github.com/nicolaNovello/fDIME)
 
 
 **Machine Learning for Communications**
