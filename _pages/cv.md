@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* PhD in Information and Communications Engineering, University of Klagenfurt, 2022-Now
-* MSc in Control Systems Engineering, University of Padova, 2020-2022
-* BSc in Information Engineering, University of Padova, 2017-2020
+* PhD in Information and Communications Engineering, University of Klagenfurt (2022 - Now)
+* MSc in Control Systems Engineering, University of Padova (2020 - 2022)
+* BSc in Information Engineering, University of Padova (2017 - 2020)
 
 Work experience
 ======
@@ -29,16 +29,20 @@ Work experience
   * Duties included: Research
   * Supervisor: Professor Andrea M. Tonello
 
+* Student intern, TRUMPF Italia (Mar. 2022 - June 2022)
+  * Duties included: Design of machine learning algorithms to improve the performance of bending machines
+  * Supervisor: Professor Alessandro Chiuso
+
 
   
 Selected Publications
 ======
-1.  $f$-Divergence Based Classification: Beyond the Use of Cross-Entropy                         
+1.  [$f$-Divergence Based Classification: Beyond the Use of Cross-Entropy](https://proceedings.mlr.press/v235/novello24a.html)                         
 **Nicola Novello**, Andrea M. Tonello                                      
 ICML -- International Conference on Machine Learning, 2024                     
-[[paper]](https://proceedings.mlr.press/v235/novello24a.html)  [[code]](https://github.com/nicolaNovello/discriminative-classification-fDiv)
+[[code]](https://github.com/nicolaNovello/discriminative-classification-fDiv)
 
-2.  Mutual Information Estimation via $f$-Divergence and Data Derangements                       
+2.  [Mutual Information Estimation via $f$-Divergence and Data Derangements](https://arxiv.org/abs/2305.20025)                       
 Nunzio A. Letizia, **Nicola Novello**, Andrea M. Tonello       
 NeurIPS -- Annual Conference on Neural Information Processing Systems, 2024                                                         
-[[paper]](https://arxiv.org/abs/2305.20025)  [[code]](https://github.com/nicolaNovello/fDIME)
+[[code]](https://github.com/nicolaNovello/fDIME)
