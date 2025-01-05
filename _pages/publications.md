@@ -31,7 +31,7 @@ NeurIPS -- Annual Conference on Neural Information Processing Systems, 2024
 SmartGridComm -- IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids, 2024                     
 [[code]](https://github.com/nicolaNovello/label-noise-PLC)
 
-2. Human Detection Based on Learning and Classification of Radio Scattering Parameters and Para-Hermitian Eigenvalue Decomposition                       
+2. [Human Detection Based on Learning and Classification of Radio Scattering Parameters and Para-Hermitian Eigenvalue Decomposition](https://ieeexplore.ieee.org/abstract/document/10817311)                       
 Frank E. Ebong, **Nicola Novello**, Andrea M. Tonello                                      
 PIMRC -- IEEE International Symposium on Personal, Indoor and Mobile Radio Communications, 2024                     
 [[code]](https://github.com/nicolaNovello/S-PBHD)
