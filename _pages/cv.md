@@ -46,3 +46,7 @@ ICML -- International Conference on Machine Learning, 2024
 Nunzio A. Letizia, **Nicola Novello**, Andrea M. Tonello       
 NeurIPS -- Annual Conference on Neural Information Processing Systems, 2024                                                         
 [[code]](https://github.com/nicolaNovello/fDIME)
+
+3. [Robust Classification with Noisy Labels Based on Posterior Maximization](https://arxiv.org/abs/2504.06805)      
+**Nicola Novello**, Andrea M. Tonello       
+Preprint  
