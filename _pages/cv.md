@@ -22,6 +22,12 @@ Work experience
   * Duties included: Research and teaching
   * Supervisor: Professor Andrea M. Tonello
 
+* Visiting Researcher, Princeton University (Jun. 2025 - July 2025)
+  * Research collaboration with Professor H. Vincent Poor
+ 
+* Project Assistant, Kelag International (Apr. 2025 - Present)   
+  * Project on "Power Line Communication for Metering - Data Analytics" 
+
 * Project Assistant, Network of competence on Internet of Things (NEON) (Sep. 2022 - Feb. 2024)
   * Administrative and managerial role
  
