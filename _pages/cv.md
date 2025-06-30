@@ -22,7 +22,7 @@ Work experience
   * Duties included: Research and teaching
   * Supervisor: Professor Andrea M. Tonello
 
-* Visiting Researcher, Princeton University (Jun. 2025 - July 2025)
+* Visiting Researcher, Princeton University (June 2025 - July 2025)
   * Research collaboration with Professor H. Vincent Poor
  
 * Project Assistant, Kelag International (Apr. 2025 - Present)   
