@@ -18,28 +18,35 @@ Publications and Preprints
 ICML -- International Conference on Machine Learning, 2024                     
 [[code]](https://github.com/nicolaNovello/discriminative-classification-fDiv)
 
-2. [Mutual Information Estimation via $f$-Divergence and Data Derangements](https://proceedings.neurips.cc/paper_files/paper/2024/hash/bdcfa850adac4a1088153881282ca972-Abstract-Conference.html)                     
+2. [Robust Classification with Noisy Labels Based on Posterior Maximization](https://arxiv.org/abs/2504.06805)      
+**Nicola Novello**, Andrea M. Tonello       
+Preprint
+
+3. [Mutual Information Estimation via $f$-Divergence and Data Derangements](https://proceedings.neurips.cc/paper_files/paper/2024/hash/bdcfa850adac4a1088153881282ca972-Abstract-Conference.html)                     
 Nunzio A. Letizia, **Nicola Novello**, Andrea M. Tonello       
 NeurIPS -- Annual Conference on Neural Information Processing Systems, 2024                                                             
 [[code]](https://github.com/nicolaNovello/fDIME)
 
-3. [Robust Classification with Noisy Labels Based on Posterior Maximization](https://arxiv.org/abs/2504.06805)      
-**Nicola Novello**, Andrea M. Tonello       
-Preprint  
+4. [Copula Density Neural Estimation](https://arxiv.org/abs/2211.15353)      
+Nunzio A. Letizia, **Nicola Novello**, Andrea M. Tonello       
+To appear in TNNLS. Currently preprint  
 
 **Machine Learning for Communications**
 
-1. [Label Noise Resistant $f$-Divergence Receiver for Power Line Communications](https://ieeexplore.ieee.org/abstract/document/10738036)                      
+1. Data-Driven Grid Monitoring Under Label Noise Using Power Line Modems                       
+**Nicola Novello**, Andrea M. Tonello                                      
+SmartGridComm -- IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids, 2025                    
+[[code]](https://github.com/nicolaNovello/grid-monitoring-PLC)
+
+2. [Label Noise Resistant $f$-Divergence Receiver for Power Line Communications](https://ieeexplore.ieee.org/abstract/document/10738036)                      
 **Nicola Novello**, Andrea M. Tonello                                      
 SmartGridComm -- IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids, 2024                     
 [[code]](https://github.com/nicolaNovello/label-noise-PLC)
 
-2. [Human Detection Based on Learning and Classification of Radio Scattering Parameters and Para-Hermitian Eigenvalue Decomposition](https://ieeexplore.ieee.org/abstract/document/10817311)                       
+3. [Human Detection Based on Learning and Classification of Radio Scattering Parameters and Para-Hermitian Eigenvalue Decomposition](https://ieeexplore.ieee.org/abstract/document/10817311)                       
 Frank E. Ebong, **Nicola Novello**, Andrea M. Tonello                                      
 PIMRC -- IEEE International Symposium on Personal, Indoor and Mobile Radio Communications, 2024                     
 [[code]](https://github.com/nicolaNovello/S-PBHD)
-
-
 
 
 **Reinforcement Learning for Communications**
