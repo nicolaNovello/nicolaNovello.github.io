@@ -18,15 +18,16 @@ Education
 Work experience
 ======
 
-* University Assistant, University of Klagenfurt (Mar. 2023 - Now)
+* University Assistant, _University of Klagenfurt_ 
+	(Mar. 2023 - Now)
   * Duties included: Research and teaching
   * Supervisor: Professor Andrea M. Tonello
+ 
+* Project Assistant, _Kelag International_ (Apr. 2025 - Present)   
+  * Project on "Power Line Communication for Metering - Data Analytics" 
 
 * Visiting Researcher, Princeton University (June 2025 - July 2025)
   * Research collaboration with Professor H. Vincent Poor
- 
-* Project Assistant, Kelag International (Apr. 2025 - Present)   
-  * Project on "Power Line Communication for Metering - Data Analytics" 
 
 * Project Assistant, Network of competence on Internet of Things (NEON) (Sep. 2022 - Feb. 2024)
   * Administrative and managerial role
