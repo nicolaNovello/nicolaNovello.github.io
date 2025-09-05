@@ -70,5 +70,5 @@ Preprint
 4.  [Copula Density Neural Estimation](https://ieeexplore.ieee.org/abstract/document/11089969)                       
 Nunzio A. Letizia, **Nicola Novello**, Andrea M. Tonello       
 IEEE Transactions on Neural Networks and Learning Systems, 2025                                                         
-[[code]](https://github.com/nicolaNovello/CODINE)
+[[code]](https://github.com/nicolaNovello/CODINE-copula-estimator)
 
