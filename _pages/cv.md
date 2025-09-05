@@ -20,9 +20,11 @@ Education
 * MSc in Control Systems Engineering, University of Padova (2020 - 2022)
     * Under the supervision of Professor Alessandro Chiuso (University of Padova)
     * Thesis topic: Deep learning to improve performance of bending machines at TRUMPF Italia
+    * Final mark: 110/110 with honors
 * BSc in Information Engineering, University of Padova (2017 - 2020)
     * Under the supervision of Professor Maria E. Valcher (University of Padova)
     * Thesis topic: Simulation of automatic control of rocket
+    * Final mark: 110/110 with honors
 
 Work experience
 ======
