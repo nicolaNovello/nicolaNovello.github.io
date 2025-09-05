@@ -15,11 +15,11 @@ redirect_from:
 Education
 ======
 * PhD in Information and Communications Engineering, University of Klagenfurt (2022 - Now)
-	- Under the supervision of Professor Andrea M. Tonello (University of Klagenfurt) and the co-supervision of Professor Deniz Gündüz (Imperial College of London)
+    - Under the supervision of Professor Andrea M. Tonello (University of Klagenfurt) and the co-supervision of Professor Deniz Gündüz (Imperial College of London)
 * MSc in Control Systems Engineering, University of Padova (2020 - 2022)
-  	- Under the supervision of Professor Alessandro Chiuso (University of Padova)
+    - Under the supervision of Professor Alessandro Chiuso (University of Padova)
 * BSc in Information Engineering, University of Padova (2017 - 2020)
-  	- Under the supervision of Professor Maria E. Valcher (University of Padova)
+    - Under the supervision of Professor Maria E. Valcher (University of Padova)
 
 Work experience
 ======
@@ -28,7 +28,7 @@ Work experience
   * Performed novel research in the area of responsible AI, with particular application in communication engineering
   * Taught undergraduate and graduate corses: communication systems engineering (undergrad.) and machine learning for information and communication engineering (grad.)
  
-* Project Assistant, ***University if Klagenfurt (collab. with Kelag International)***
+* Project Assistant, ***University of Klagenfurt (collab. with Kelag International)***
   (Apr. 2025 - Present)   
   * Project on "Power Line Communication for Metering - Data Analytics"
   * Contributed with a researcher role
