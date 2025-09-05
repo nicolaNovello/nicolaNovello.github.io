@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+<a href="https://raw.githubusercontent.com/nicolaNovello/nicolaNovello.github.io/master/assets/Nicola_Novello_CV.pdf" download="Nicola_Novello_CV.pdf">Download my CV</a>
+
+
 Education
 ======
 * PhD in Information and Communications Engineering, University of Klagenfurt (2022 - Now)
