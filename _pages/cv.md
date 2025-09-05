@@ -15,11 +15,14 @@ redirect_from:
 Education
 ======
 * PhD in Information and Communications Engineering, University of Klagenfurt (2022 - Now)
-    - Under the supervision of Professor Andrea M. Tonello (University of Klagenfurt) and the co-supervision of Professor Deniz Gündüz (Imperial College of London)
+    * Under the supervision of Professor Andrea M. Tonello (University of Klagenfurt) and the co-supervision of Professor Deniz Gündüz (Imperial College of London)
+    * Main research area: Responsible AI, with applications in communications engineering
 * MSc in Control Systems Engineering, University of Padova (2020 - 2022)
-    - Under the supervision of Professor Alessandro Chiuso (University of Padova)
+    * Under the supervision of Professor Alessandro Chiuso (University of Padova)
+    * Thesis topic: Deep learning to improve performance of bending machines at TRUMPF Italia
 * BSc in Information Engineering, University of Padova (2017 - 2020)
-    - Under the supervision of Professor Maria E. Valcher (University of Padova)
+    * Under the supervision of Professor Maria E. Valcher (University of Padova)
+    * Thesis topic: Simulation of automatic control of rocket
 
 Work experience
 ======
