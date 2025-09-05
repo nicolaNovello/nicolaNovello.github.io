@@ -24,8 +24,7 @@ Education
 Work experience
 ======
 
-* University Assistant, ***University of Klagenfurt*** (Mar. 2023 - Now)
-  * Performed novel research in the area of responsible AI, with particular application in communication engineering
+* Teaching Assistant, ***University of Klagenfurt*** (Mar. 2023 - Now)
   * Taught undergraduate and graduate corses: communication systems engineering (undergrad.) and machine learning for information and communication engineering (grad.)
  
 * Project Assistant, ***University of Klagenfurt (collab. with Kelag International)***
