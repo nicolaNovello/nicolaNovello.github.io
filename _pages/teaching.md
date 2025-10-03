@@ -10,7 +10,7 @@ author_profile: true
 
 ## Machine Learning
 
-**Machine Learning Basics for Information and Communication Engineering** (Summer semester 2024)
+**Machine Learning Basics for Information and Communication Engineering** 
   
 Topics covered in the course are the following:
 - Introduction to the course
@@ -26,3 +26,18 @@ Topics covered in the course are the following:
     - Autoencoders and their application in communications
     - Generative adversarial networks (GANs) and their application in communications
     - Mutual information and channel capacity estimation
+
+**Communication Systems Engineering**
+
+Topics covered in the course are the following:
+- Basics of the theory of signals
+    - Definition and properties of a signal. Signal transformations and elementary operations. Most common time-domain signals 
+    - Convolution
+    - Frequency representation: Fourier series and Fourier transform
+    - Complex representation: Analytic signal and Hilbert transform
+- Basics of communications
+    - Random processes
+    - Power spectral density
+    - Structure of a communication system
+    - Analog and Digital Modulation
+    - Introduction to Sampling and Reconstruction
