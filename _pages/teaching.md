@@ -27,6 +27,8 @@ Topics covered in the course are the following:
     - Generative adversarial networks (GANs) and their application in communications
     - Mutual information and channel capacity estimation
 
+## Communication Engineering
+
 **Communication Systems Engineering**
 
 Topics covered in the course are the following:
