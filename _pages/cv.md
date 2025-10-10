@@ -70,11 +70,15 @@ Nunzio A. Letizia, **Nicola Novello**, Andrea M. Tonello
 NeurIPS -- Annual Conference on Neural Information Processing Systems, 2024                                                         
 [[code]](https://github.com/nicolaNovello/fDIME)
 
-3. [Robust Classification with Noisy Labels Based on Posterior Maximization](https://arxiv.org/abs/2504.06805)      
+3. [A Unified Framework for Diffusion Model Unlearning with f-Divergence](https://arxiv.org/abs/2509.21167)      
+**Nicola Novello**, Federico Fontana, Luigi Cinque, Deniz Gunduz, Andrea M. Tonello      
+Preprint
+
+4. [Robust Classification with Noisy Labels Based on Posterior Maximization](https://arxiv.org/abs/2504.06805)      
 **Nicola Novello**, Andrea M. Tonello       
 Preprint
 
-4.  [Copula Density Neural Estimation](https://ieeexplore.ieee.org/abstract/document/11089969)                       
+5.  [Copula Density Neural Estimation](https://ieeexplore.ieee.org/abstract/document/11089969)                       
 Nunzio A. Letizia, **Nicola Novello**, Andrea M. Tonello       
 IEEE Transactions on Neural Networks and Learning Systems, 2025                                                         
 [[code]](https://github.com/nicolaNovello/CODINE-copula-estimator)
