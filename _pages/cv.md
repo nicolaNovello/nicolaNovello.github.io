@@ -33,7 +33,7 @@ Work experience
   * Taught undergraduate and graduate corses: communication systems engineering (undergrad.) and machine learning for information and communication engineering (grad.)
  
 * Project Assistant, ***University of Klagenfurt (collab. with Kelag International)***
-  (Apr. 2025 - Present)   
+  (Apr. 2025 - Dec. 2025)   
   * Project on "Power Line Communication for Metering - Data Analytics"
   * Contributed with a researcher role
 
