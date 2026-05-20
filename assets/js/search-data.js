@@ -398,11 +398,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-copula-density-neural-estimation-accepted-at-ieee-tnnls",
-          title: '“Copula density neural estimation” accepted at IEEE TNNLS!',
-          description: "",
-          section: "News",},{id: "news-a-unified-framework-for-diffusion-model-unlearning-with-f-divergence-accepteed-at-icml-2026",
+            },},{id: "news-a-unified-framework-for-diffusion-model-unlearning-with-f-divergence-accepteed-at-icml-2026",
           title: '“A Unified Framework for Diffusion Model Unlearning with f-Divergence” accepteed at ICML 2026!...',
+          description: "",
+          section: "News",},{id: "news-copula-density-neural-estimation-accepted-at-ieee-tnnls",
+          title: '“Copula density neural estimation” accepted at IEEE TNNLS!',
           description: "",
           section: "News",},{id: "news-i-have-been-recognized-as-a-gold-reviewer-at-icml-2026",
           title: 'I have been recognized as a Gold Reviewer at ICML 2026!',
