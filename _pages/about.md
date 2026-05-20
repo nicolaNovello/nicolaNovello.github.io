@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Universitätsstraße 65/67. Klagenfurt am Wörthersee. Austria
+subtitle: PhD Student at University of Klagenfurt. Universitätsstraße 65/67, Klagenfurt am Wörthersee. Austria
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -18,4 +18,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-To be updated...
+I am currently a fourth-year PhD student at University of Klagenfurt, Austria, under the supervision of Professor [Andrea M. Tonello](http://www.andreatonello.com/) and Professor [Deniz Gündüz](https://profiles.imperial.ac.uk/d.gunduz). Previously, I received my MSc and BSc degrees with honors from the University of Padova, Italy. I am interested in the design of objective functions for discriminative and generative models, with a particular focus on trustworthy AI.
