@@ -440,16 +440,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-a-unified-framework-for-diffusion-model-unlearning-with-f-divergence-accepteed-at-icml-2026",
+          title: '“A Unified Framework for Diffusion Model Unlearning with f-Divergence” accepteed at ICML 2026!...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-copula-density-neural-estimation-accepted-at-ieee-tnnls",
+          title: '“Copula density neural estimation” accepted at IEEE TNNLS!',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
