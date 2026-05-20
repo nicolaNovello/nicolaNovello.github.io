@@ -470,6 +470,13 @@ ninja.data = [{
           window.open("mailto:%6E%69%63%6F%6C%61.%6E%6F%76%65%6C%6C%6F@%61%61%75.%61%74", "_blank");
         },
       },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/nicolaNovello", "_blank");
+        },
+      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
