@@ -3,6 +3,7 @@
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 cv_pdf: /assets/pdf/CV_NovelloNicola.pdf # path to your CV PDF file
 email: nicola.novello@aau.at # your email address
+github_username: nicolaNovello
 # inspirehep_id: 1010907 # Inspire HEP author ID
 # rss_icon: true # comment this line to hide the RSS icon
 scholar_userid: 4PPM0GkAAAAJ # your Google Scholar ID
