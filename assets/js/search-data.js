@@ -456,7 +456,7 @@ ninja.data = [{
           title: 'Communication Systems Engineering',
           description: "This course provides the basics on signal processing and communication engineering.",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/introduction-to-machine-learning/";
+              window.location.href = "/teachings/comm_eng/";
             },},{id: "teachings-machine-learning-basics-for-information-and-communications-engineering",
           title: 'Machine Learning Basics for Information and Communications Engineering',
           description: "This course covers the basics of machine learning and deep learning and focuses on information enginnering applications.",
