@@ -452,9 +452,9 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "teachings-introduction-to-machine-learning",
-          title: 'Introduction to Machine Learning',
-          description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
+            },},{id: "teachings-communication-systems-engineering",
+          title: 'Communication Systems Engineering',
+          description: "This course provides the basics on signal processing and communication engineering.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/introduction-to-machine-learning/";
             },},{id: "teachings-machine-learning-basics-for-information-and-communications-engineering",
