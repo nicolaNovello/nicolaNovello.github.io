@@ -392,7 +392,7 @@ ninja.data = [{
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
             },},{id: "news-i-have-started-my-2-months-visiting-period-at-princeton-university",
-          title: 'I have started my 2 months visiting period at **Princeton University**!',
+          title: 'I have started my 2 months visiting period at Princeton University!',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_4/";
