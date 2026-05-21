@@ -392,9 +392,11 @@ ninja.data = [{
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
             },},{id: "news-i-have-started-my-2-months-visiting-period-at-princeton-university",
-          title: 'I have started my 2 months visiting period at Princeton University!',
+          title: 'I have started my 2 months visiting period at **Princeton University**!',
           description: "",
-          section: "News",},{id: "news-copula-density-neural-estimation-accepted-at-ieee-tnnls",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_4/";
+            },},{id: "news-copula-density-neural-estimation-accepted-at-ieee-tnnls",
           title: '“Copula density neural estimation” accepted at IEEE TNNLS!',
           description: "",
           section: "News",},{id: "news-a-unified-framework-for-diffusion-model-unlearning-with-f-divergence-accepted-at-icml-2026",
