@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I have started my 2 months visiting period at **Princeton University**! 
+title: "I have started my 2 months visiting period at <b>Princeton University<b>!" 
 date: 2025-06-01 15:59:00-0400
 inline: false
 related_posts: false
