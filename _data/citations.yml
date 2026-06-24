@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-10'
+  last_updated: '2026-06-24'
 papers:
   4PPM0GkAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -30,7 +30,7 @@ papers:
     title: Robust classification with noisy labels based on posterior maximization
     year: '2025'
   4PPM0GkAAAAJ:_FxGoFyzp5QC:
-    citations: 34
+    citations: 33
     title: Mutual Information Estimation via -Divergence and Data Derangements
     year: '2024'
   4PPM0GkAAAAJ:d1gkVwhDpl0C:
@@ -42,6 +42,6 @@ papers:
     title: '-Divergence Based Classification: Beyond the Use of Cross-Entropy'
     year: '2024'
   4PPM0GkAAAAJ:roLk4NBRz8UC:
-    citations: 23
+    citations: 22
     title: Copula density neural estimation
     year: '2025'
