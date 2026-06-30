@@ -3,7 +3,7 @@ metadata:
 papers:
   4PPM0GkAAAAJ:0EnyYjriUFMC:
     citations: 0
-    title: 'Empty SPACE: Cross-Attention Sparsity for Concept Erasure in Diffusion Models'
+    title: Empty SPACE: Cross-Attention Sparsity for Concept Erasure in Diffusion Models
     year: '2026'
   4PPM0GkAAAAJ:2osOgNQ5qMEC:
     citations: 4
@@ -31,7 +31,7 @@ papers:
     year: '2025'
   4PPM0GkAAAAJ:_FxGoFyzp5QC:
     citations: 33
-    title: Mutual Information Estimation via -Divergence and Data Derangements
+    title: Mutual Information Estimation via f-Divergence and Data Derangements
     year: '2024'
   4PPM0GkAAAAJ:d1gkVwhDpl0C:
     citations: 3
@@ -39,7 +39,7 @@ papers:
     year: '2023'
   4PPM0GkAAAAJ:qjMakFHDy7sC:
     citations: 20
-    title: '-Divergence Based Classification: Beyond the Use of Cross-Entropy'
+    title: f-Divergence Based Classification: Beyond the Use of Cross-Entropy
     year: '2024'
   4PPM0GkAAAAJ:roLk4NBRz8UC:
     citations: 22
