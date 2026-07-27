@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-06'
+  last_updated: '2026-07-27'
 papers:
   4PPM0GkAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -14,7 +14,7 @@ papers:
     title: Label noise resistant f-divergence receiver for power line communications
     year: '2024'
   4PPM0GkAAAAJ:Se3iqnhoufwC:
-    citations: 2
+    citations: 3
     title: A Unified Framework for Diffusion Model Unlearning with f-Divergence
     year: '2026'
   4PPM0GkAAAAJ:Tyk-4Ss8FVUC:
@@ -30,7 +30,7 @@ papers:
     title: Robust classification with noisy labels based on posterior maximization
     year: '2025'
   4PPM0GkAAAAJ:_FxGoFyzp5QC:
-    citations: 33
+    citations: 36
     title: Mutual Information Estimation via -Divergence and Data Derangements
     year: '2024'
   4PPM0GkAAAAJ:d1gkVwhDpl0C:
@@ -38,10 +38,10 @@ papers:
     title: Reinforcement learning for simplified training in fingerprinting radio localization
     year: '2023'
   4PPM0GkAAAAJ:qjMakFHDy7sC:
-    citations: 20
+    citations: 21
     title: '-Divergence Based Classification: Beyond the Use of Cross-Entropy'
     year: '2024'
   4PPM0GkAAAAJ:roLk4NBRz8UC:
-    citations: 22
+    citations: 23
     title: Copula density neural estimation
     year: '2025'
