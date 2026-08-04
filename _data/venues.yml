@@ -7,3 +7,45 @@
 
 "Vision":
   color: "#009f36"
+
+# Machine Learning Conferences
+"ICML":
+  color: "#ff6b6b"
+"NeurIPS":
+  color: "#ff6b6b"
+"ICLR":
+  color: "#ff6b6b"
+
+# Machine Learning Journals
+"IEEE TPAMI":
+  color: "#fca311"
+"IEEE TAI":
+  color: "#fca311"
+"IEEE TNNLS":
+  color: "#fca311"
+"JMLR":
+  color: "#fca311"
+"TMLR":
+  color: "#fca311"
+
+# Communications Conferences
+"IEEE ICC":
+  color: "#4cc9f0"
+"GLOBECOM":
+  color: "#4cc9f0"
+"SmartGridComm":
+  color: "#4cc9f0"
+"BalkanCom":
+  color: "#4cc9f0"
+"PIMRC":
+  color: "#4cc9f0"
+
+# Communications Journals
+"IEEE TCOM":
+  color: "#4361ee"
+"IEEE TWC":
+  color: "#4361ee"
+"IEEE JSAC":
+  color: "#4361ee"
+"ICT Express":
+  color: "#4361ee"
