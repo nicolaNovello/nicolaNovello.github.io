@@ -39,7 +39,7 @@ I am currently a fourth-year PhD student at University of Klagenfurt, Austria, u
     <p class="mb-2">Designing objective functions to estimate and maximize mutual information for ML and communication engineering.</p>
     <!-- Badges -->
     <div>
-      <a href=https://proceedings.neurips.cc/paper_files/paper/2024/file/bdcfa850adac4a1088153881282ca972-Paper-Conference.pdf" title="Mutual Information Estimation via f-Divergence and Data Derangements" class="badge badge-pill border text-muted mr-1" style="font-weight: normal; text-decoration: none;">f-DIME</a>
+      <a href="https://proceedings.neurips.cc/paper_files/paper/2024/file/bdcfa850adac4a1088153881282ca972-Paper-Conference.pdf" title="Mutual Information Estimation via f-Divergence and Data Derangements" class="badge badge-pill border text-muted mr-1" style="font-weight: normal; text-decoration: none;">f-DIME</a>
     </div>
   </div>
   
