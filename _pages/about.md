@@ -51,7 +51,7 @@ I am currently a fourth-year PhD student at University of Klagenfurt, Austria, u
     <!-- Badges -->
     <div>
       <a href="https://arxiv.org/pdf/2401.01268" title="f-Divergence Based Classification: Beyond the Use of Cross-Entropy" class="badge badge-pill mr-1" style="color: var(--global-text-color) !important; border: 1px solid var(--global-text-color); font-weight: normal; text-decoration: none;">f-PML</a>
-      <a href="https://arxiv.org/pdf/2504.06805" title="Robust Classification with Noisy Labels Based on Posterior Maximization" class="badge badge-pill mr-1" style="color: var(--global-text-color) !important; border: 1px solid var(--global-text-color); font-weight: normal; text-decoration: none;">f-PML(LN)</a>
+      <a href="https://arxiv.org/pdf/2504.06805" title="Robust Classification with Noisy Labels Based on Posterior Maximization" class="badge badge-pill mr-1" style="color: var(--global-text-color) !important; border: 1px solid var(--global-text-color); font-weight: normal; text-decoration: none;">f-PML (LN)</a>
     </div>
   </div>
 
