@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-27'
+  last_updated: '2026-08-07'
 papers:
   4PPM0GkAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -19,18 +19,18 @@ papers:
     year: '2026'
   4PPM0GkAAAAJ:Tyk-4Ss8FVUC:
     citations: 3
-    title: Human Detection Based on Learning and Classification of Radio Scattering Parameters and Para-Hermitian Eigenvalue Decomposition
+    title: Human detection based on learning and classification of radio scattering parameters and para-hermitian eigenvalue decomposition
     year: '2024'
   4PPM0GkAAAAJ:UebtZRa9Y70C:
     citations: 0
     title: Data-Driven Grid Monitoring Under Label Noise Using Power Line Modems
     year: '2025'
   4PPM0GkAAAAJ:YsMSGLbcyi4C:
-    citations: 3
+    citations: 4
     title: Robust classification with noisy labels based on posterior maximization
     year: '2025'
   4PPM0GkAAAAJ:_FxGoFyzp5QC:
-    citations: 36
+    citations: 38
     title: Mutual Information Estimation via -Divergence and Data Derangements
     year: '2024'
   4PPM0GkAAAAJ:d1gkVwhDpl0C:
@@ -38,10 +38,10 @@ papers:
     title: Reinforcement learning for simplified training in fingerprinting radio localization
     year: '2023'
   4PPM0GkAAAAJ:qjMakFHDy7sC:
-    citations: 21
+    citations: 23
     title: '-Divergence Based Classification: Beyond the Use of Cross-Entropy'
     year: '2024'
   4PPM0GkAAAAJ:roLk4NBRz8UC:
-    citations: 23
+    citations: 24
     title: Copula density neural estimation
     year: '2025'
