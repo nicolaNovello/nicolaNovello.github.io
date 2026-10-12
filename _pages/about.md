@@ -18,7 +18,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently a fourth-year PhD student at University of Klagenfurt, Austria, under the supervision of Professor [Andrea M. Tonello](http://www.andreatonello.com/) and Professor [Deniz Gündüz](https://profiles.imperial.ac.uk/d.gunduz). Previously, I received my MSc and BSc degrees with honors from the University of Padova, Italy. I am interested in the design of objective functions for discriminative and generative models, with a particular focus on **Trustworthy ML**.
+I am currently a final-year PhD student at University of Klagenfurt, Austria, under the supervision of Professor [Andrea M. Tonello](http://www.andreatonello.com/) and Professor [Deniz Gündüz](https://profiles.imperial.ac.uk/d.gunduz). Previously, I received my MSc and BSc degrees with honors from the University of Padova, Italy. I am interested in the design of objective functions for discriminative and generative models, with a particular focus on **Trustworthy ML**.
 
 <div class="row mt-4" markdown="0">
   
@@ -28,7 +28,7 @@ I am currently a fourth-year PhD student at University of Klagenfurt, Austria, u
     <p class="mb-2">Designing novel objective functions and frameworks to effectively erase concepts from diffusion models.</p>
     <!-- Badges -->
     <div>
-      <a href="https://arxiv.org/pdf/2509.21167" title="A Unified Framework for Diffusion Model Unlearning with f-Divergence" class="badge badge-pill mr-1" style="color: var(--global-text-color) !important; border: 1px solid var(--global-text-color); font-weight: normal; text-decoration: none;">f-DMU</a>
+      <a href="https://proceedings.mlr.press/v306/novello26a.html" title="A Unified Framework for Diffusion Model Unlearning with f-Divergence" class="badge badge-pill mr-1" style="color: var(--global-text-color) !important; border: 1px solid var(--global-text-color); font-weight: normal; text-decoration: none;">f-DMU</a>
       <a href="https://arxiv.org/pdf/2605.10198" title="Empty SPACE: Cross-Attention Sparsity for Concept Erasure in Diffusion Models" class="badge badge-pill mr-1" style="color: var(--global-text-color) !important; border: 1px solid var(--global-text-color); font-weight: normal; text-decoration: none;">SPACE</a>
     </div>
   </div>
