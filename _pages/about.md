@@ -50,7 +50,7 @@ I am currently a final-year PhD student at University of Klagenfurt, Austria, un
     <p class="mb-2">Exploring advanced objective functions (using f-Divergence) to enhance classification with and without label noise.</p>
     <!-- Badges -->
     <div>
-      <a href="https://arxiv.org/pdf/2401.01268" title="f-Divergence Based Classification: Beyond the Use of Cross-Entropy" class="badge badge-pill mr-1" style="color: var(--global-text-color) !important; border: 1px solid var(--global-text-color); font-weight: normal; text-decoration: none;">f-PML</a>
+      <a href="https://proceedings.mlr.press/v235/novello24a.html" title="f-Divergence Based Classification: Beyond the Use of Cross-Entropy" class="badge badge-pill mr-1" style="color: var(--global-text-color) !important; border: 1px solid var(--global-text-color); font-weight: normal; text-decoration: none;">f-PML</a>
       <a href="https://arxiv.org/pdf/2504.06805" title="Robust Classification with Noisy Labels Based on Posterior Maximization" class="badge badge-pill mr-1" style="color: var(--global-text-color) !important; border: 1px solid var(--global-text-color); font-weight: normal; text-decoration: none;">f-PML (LN)</a>
     </div>
   </div>
