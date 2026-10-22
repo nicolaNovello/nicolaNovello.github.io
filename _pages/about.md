@@ -41,6 +41,9 @@ I am currently a final-year PhD student at University of Klagenfurt, Austria, un
     <div>
       <a href="https://proceedings.neurips.cc/paper_files/paper/2024/file/bdcfa850adac4a1088153881282ca972-Paper-Conference.pdf" title="Mutual Information Estimation via f-Divergence and Data Derangements" class="badge badge-pill mr-1" style="color: var(--global-text-color) !important; border: 1px solid var(--global-text-color); font-weight: normal; text-decoration: none;">f-DIME</a>
     </div>
+    <div>
+      <a href="https://ieeexplore.ieee.org/document/11744073" title="Channel Capacity Estimation with Cooperative Neural Architectures: The Role of Objective Functions and f-Divergences" class="badge badge-pill mr-1" style="color: var(--global-text-color) !important; border: 1px solid var(--global-text-color); font-weight: normal; text-decoration: none;">f-CORTICAL</a>
+    </div>
   </div>
   
   
